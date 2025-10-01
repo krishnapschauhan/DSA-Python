@@ -5,6 +5,4 @@ class Solution(object):
         else:
             return False
 
-obj = Solution()
-print(obj.isPalindrome(121)) 
-print(obj.isPalindrome(-121)) 
+
