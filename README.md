@@ -6,10 +6,12 @@ DSA Repo.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/krishnapschauhan/DSA-Python/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/krishnapschauhan/DSA-Python/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/krishnapschauhan/DSA-Python/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/krishnapschauhan/DSA-Python/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnapschauhan/DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krishnapschauhan/DSA-Python/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/krishnapschauhan/DSA-Python/tree/master/0189-rotate-array) |
@@ -25,4 +27,8 @@ DSA Repo.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnapschauhan/DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/krishnapschauhan/DSA-Python/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
