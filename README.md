@@ -12,6 +12,7 @@ DSA Repo.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/krishnapschauhan/DSA-Python/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/krishnapschauhan/DSA-Python/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnapschauhan/DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnapschauhan/DSA-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/krishnapschauhan/DSA-Python/tree/master/0136-single-number) |
@@ -23,6 +24,7 @@ DSA Repo.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/krishnapschauhan/DSA-Python/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/krishnapschauhan/DSA-Python/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -40,4 +42,8 @@ DSA Repo.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/krishnapschauhan/DSA-Python/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/krishnapschauhan/DSA-Python/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
