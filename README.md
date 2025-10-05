@@ -16,6 +16,7 @@ DSA Repo.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnapschauhan/DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnapschauhan/DSA-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/krishnapschauhan/DSA-Python/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/krishnapschauhan/DSA-Python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krishnapschauhan/DSA-Python/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
@@ -38,6 +39,7 @@ DSA Repo.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/krishnapschauhan/DSA-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/krishnapschauhan/DSA-Python/tree/master/0169-majority-element) |
 ## Union Find
 |  |
 | ------- |
@@ -46,4 +48,13 @@ DSA Repo.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/krishnapschauhan/DSA-Python/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/krishnapschauhan/DSA-Python/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishnapschauhan/DSA-Python/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishnapschauhan/DSA-Python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
