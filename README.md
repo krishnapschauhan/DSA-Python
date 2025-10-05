@@ -19,6 +19,7 @@ DSA Repo.
 | [0136-single-number](https://github.com/krishnapschauhan/DSA-Python/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/krishnapschauhan/DSA-Python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krishnapschauhan/DSA-Python/tree/master/0189-rotate-array) |
+| [0990-verifying-an-alien-dictionary](https://github.com/krishnapschauhan/DSA-Python/tree/master/0990-verifying-an-alien-dictionary) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ DSA Repo.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/krishnapschauhan/DSA-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/krishnapschauhan/DSA-Python/tree/master/0169-majority-element) |
+| [0990-verifying-an-alien-dictionary](https://github.com/krishnapschauhan/DSA-Python/tree/master/0990-verifying-an-alien-dictionary) |
 ## Union Find
 |  |
 | ------- |
@@ -60,4 +62,8 @@ DSA Repo.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishnapschauhan/DSA-Python/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0990-verifying-an-alien-dictionary](https://github.com/krishnapschauhan/DSA-Python/tree/master/0990-verifying-an-alien-dictionary) |
 <!---LeetCode Topics End-->
