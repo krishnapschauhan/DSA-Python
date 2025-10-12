@@ -20,6 +20,7 @@ DSA Repo.
 | [0169-majority-element](https://github.com/krishnapschauhan/DSA-Python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krishnapschauhan/DSA-Python/tree/master/0189-rotate-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/krishnapschauhan/DSA-Python/tree/master/0990-verifying-an-alien-dictionary) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/krishnapschauhan/DSA-Python/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,6 +30,7 @@ DSA Repo.
 | ------- |
 | [0075-sort-colors](https://github.com/krishnapschauhan/DSA-Python/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/krishnapschauhan/DSA-Python/tree/master/0189-rotate-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/krishnapschauhan/DSA-Python/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +68,8 @@ DSA Repo.
 |  |
 | ------- |
 | [0990-verifying-an-alien-dictionary](https://github.com/krishnapschauhan/DSA-Python/tree/master/0990-verifying-an-alien-dictionary) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/krishnapschauhan/DSA-Python/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
