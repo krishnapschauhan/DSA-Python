@@ -17,8 +17,4 @@ class Solution(object):
                 nums[i], nums[pivot] = nums[pivot], nums[i]
                 break
         
-        left, right = pivot + 1, n - 1
-        while left < right:
-            nums[left], nums[right] = nums[right], nums[left]
-            left += 1
-            right -= 1
+        nums[pivot+1:] = reversed(nums[pivot+1:])
