@@ -11,6 +11,7 @@ DSA Repo.
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/krishnapschauhan/DSA-Python/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/krishnapschauhan/DSA-Python/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/krishnapschauhan/DSA-Python/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/krishnapschauhan/DSA-Python/tree/master/0075-sort-colors) |
@@ -29,6 +30,7 @@ DSA Repo.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/krishnapschauhan/DSA-Python/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/krishnapschauhan/DSA-Python/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/krishnapschauhan/DSA-Python/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/krishnapschauhan/DSA-Python/tree/master/2271-rearrange-array-elements-by-sign) |
