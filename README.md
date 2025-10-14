@@ -33,3 +33,19 @@ Each file = one LeetCode problem (named by problem title).
 ---
 
 > ⚡ Student by degree, developer by choice.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/krishnapschauhan/DSA-Python/tree/master/0054-spiral-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/krishnapschauhan/DSA-Python/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/krishnapschauhan/DSA-Python/tree/master/0054-spiral-matrix) |
+<!---LeetCode Topics End-->
