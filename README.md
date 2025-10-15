@@ -33,3 +33,15 @@ Each file = one LeetCode problem (named by problem title).
 ---
 
 > ⚡ Student by degree, developer by choice.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/krishnapschauhan/DSA-Python/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/krishnapschauhan/DSA-Python/tree/master/0792-binary-search) |
+<!---LeetCode Topics End-->
