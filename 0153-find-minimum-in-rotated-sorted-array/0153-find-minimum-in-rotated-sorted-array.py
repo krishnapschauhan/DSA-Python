@@ -1,14 +1,10 @@
-class Solution(object):
+class Solution:
     def findMin(self, nums):
-        start = 0
-        end = len(nums) - 1
-
-        while start < end:
-            mid = (start + end) // 2
-
-            if nums[mid] > nums[end]:
-                start = mid + 1
+        l, r = 0, len(nums) - 1
+        while l < r:
+            m = (l + r) // 2
+            if nums[m] > nums[r]:
+                l = m + 1
             else:
-                end = mid
-
-        return nums[start]
+                r = m
+        return nums[l]
