@@ -33,19 +33,6 @@ Each file = one LeetCode problem (named by problem title).
 ---
 
 > ⚡ Student by degree, developer by choice.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0162-find-peak-element](https://github.com/krishnapschauhan/DSA-Python/tree/master/0162-find-peak-element) |
-| [0882-peak-index-in-a-mountain-array](https://github.com/krishnapschauhan/DSA-Python/tree/master/0882-peak-index-in-a-mountain-array) |
-| [0907-koko-eating-bananas](https://github.com/krishnapschauhan/DSA-Python/tree/master/0907-koko-eating-bananas) |
-## Binary Search
-|  |
-| ------- |
-| [0162-find-peak-element](https://github.com/krishnapschauhan/DSA-Python/tree/master/0162-find-peak-element) |
-| [0882-peak-index-in-a-mountain-array](https://github.com/krishnapschauhan/DSA-Python/tree/master/0882-peak-index-in-a-mountain-array) |
+-peak-index-in-a-mountain-array](https://github.com/krishnapschauhan/DSA-Python/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/krishnapschauhan/DSA-Python/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
