@@ -59,5 +59,5 @@ A curated collection of **LeetCode solutions in Python**, focusing on:
 If you find this repo helpful, consider giving it a **star** ⭐
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR1k6Ook8U/giphy.gif" width="250" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpmdml3MW9qNnUwb3hjdWh0dHp5aTJlNnAwbDZtZHhyeWRveWgxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="500px" />
 </p>
