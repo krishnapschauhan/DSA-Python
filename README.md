@@ -1,38 +1,63 @@
 # 🧠 DSA with Python
 
-My collection of **LeetCode solutions** written in **Python**.  
-Focused on clean logic, optimized approaches, and consistency.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff6ec4,100:7873f5&text=DSA%20with%20Python&fontSize=60&fontColor=ffffff&fontAlign=50&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00E1FF&center=true&vCenter=true&width=700&lines=LeetCode+%7C+Python+%7C+Optimized+Solutions;Data+Structures+%26+Algorithms+Mastery+Journey;Writing+Cleaner+%26+Smarter+Code+Everyday+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
+  <img src="https://img.shields.io/badge/LeetCode-DSA-orange?logo=leetcode" />
+  <img src="https://img.shields.io/badge/Solutions-Optimized-brightgreen" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-success" />
+</p>
+
+A curated collection of **LeetCode solutions in Python**, focusing on:
+- Clean & simple logic 🧼  
+- Optimized approaches ⚡  
+- Pythonic style 🐍  
+- Consistency & readability 📘  
 
 ---
 
-## 📂 Structure
-Problems are organized by topic:
+## 🎯 Goals
+- Build strong DSA fundamentals  
+- Improve pattern recognition  
+- Track growth publicly  
+- Boost interview preparation  
 
 ---
 
-Each file = one LeetCode problem (named by problem title).
-
----
-
-## 🚀 Goals
-- Build strong DSA foundation  
-- Improve problem-solving skills  
-- Keep track of progress  
-
----
-
-## ⚙️ Tech
+## ⚙️ Tech Stack
 - **Language:** Python  
 - **Platform:** LeetCode  
+- **Tools:** VS Code, GitHub  
 
 ---
 
-## 🌐 Connect
-[🌍 Portfolio](https://creative-krishna.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/krishnapratapsinghchauhan/) • [🐙 GitHub](https://github.com/creative-krishna)
+## 🏆 Progress
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" />
+</p>
+
+> *Student by degree. Developer by choice.* ⚡
 
 ---
 
-> ⚡ Student by degree, developer by choice.
--peak-index-in-a-mountain-array](https://github.com/krishnapschauhan/DSA-Python/tree/master/0882-peak-index-in-a-mountain-array) |
-| [0907-koko-eating-bananas](https://github.com/krishnapschauhan/DSA-Python/tree/master/0907-koko-eating-bananas) |
-<!---LeetCode Topics End-->
+## 🌐 Connect With Me
+- 🌍 **Portfolio:** https://creative-krishna.vercel.app  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/krishnapratapsinghchauhan/  
+- 🐙 **GitHub:** https://github.com/creative-krishna  
+
+---
+
+## ⭐ Support
+If you find this repo helpful, consider giving it a **star** ⭐
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR1k6Ook8U/giphy.gif" width="250" />
+</p>
