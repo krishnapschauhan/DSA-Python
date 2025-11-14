@@ -62,3 +62,11 @@ If you find this repo helpful, consider giving it a **star** ⭐
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpmdml3MW9qNnUwb3hjdWh0dHp5aTJlNnAwbDZtZHhyeWRveWgxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="500px" />
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/krishnapschauhan/DSA-Python/tree/master/0237-delete-node-in-a-linked-list) |
+<!---LeetCode Topics End-->
