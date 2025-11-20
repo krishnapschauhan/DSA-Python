@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00E1FF&width=700&lines=LeetCode+%7C+Python+%7C+Optimized+Solutions;Data+Structures+%26+Algorithms+Mastery+Journey;Writing+Cleaner+%26+Smarter+Code+Everyday+🚀" />
-</p>
-
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
   <img src="https://img.shields.io/badge/LeetCode-DSA-orange?logo=leetcode" />
   <img src="https://img.shields.io/badge/Solutions-Optimized-brightgreen" />
