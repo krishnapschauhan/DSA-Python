@@ -6,32 +6,11 @@
 
 class Solution(object):
     def getIntersectionNode(self, headA, headB):
-        lenA = 0
-        tempA = headA
-        while tempA:
-            lenA += 1
-            tempA = tempA.next
+        l1,l2=headA,headB
 
-        lenB = 0
-        tempB = headB
-        while tempB:
-            lenB += 1
-            tempB = tempB.next
+        while l1!=l2:
+            l1=l1.next if l1 else headB
+            l2=l2.next if l2 else headA
 
-        if lenA > lenB: # A is longer than B
-            for _ in range(lenA-lenB):
-                headA = headA.next
-        elif lenB > lenA: # B is longer than A
-            for _ in range(lenB-lenA):
-                headB = headB.next
-
-        
-        while headA and headB:
-            if headA != headB:
-                headA = headA.next
-                headB = headB.next
-            else:
-                return headA
-
-        return None
+        return l1
         
